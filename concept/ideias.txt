@@ -1,0 +1,14 @@
+- Criar página introdutória dos comandos git
+- Criar página para prepara ambiente de dev
+- Criar página explicando cdns e suas vantagens
+- Criar página explicando domínos, servidores DNS e dns replication
+- Criar página explicando NGINX
+- Criar página explicando próxy reverso
+- Criar página explicando balanceamento de carga e seus tipos
+- Criar página explicando meta tags importantes
+- Criar página explicando minifyer
+- Criar página explicando as principais tags HTML5
+
+
+
+- Criar página para direcionar e informar dados de doações e níveis de sangue nos bancos de sangue

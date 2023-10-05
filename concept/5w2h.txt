@@ -1,0 +1,28 @@
+5W
+
+• What – o que será feito?
+    Portal de portfólio
+
+• Why – por que será feito?
+    Consolidar meus conhecimentos
+    Disseminar o conhecimento
+    Me expor ao mercado como especialista
+
+• Where – onde será feito?
+    GitHub pages
+    Com parte do meu tempo de estudos
+
+• When – quando será feito?
+    O projeto será faseado, iniciando forte em Novembro de 2023 e avançando por 2024 e 2025
+
+• Who – por quem será feito?
+    Naranjo
+
+2H
+
+• How – como será feito?
+    Desenvolvimento opensource com ferramentas gratuitas
+
+• How much – quanto vai custar?
+    DomínioBR R$ 40,00/ano (R$ 364,00 em promoção de 10 anos) .tec.br
+    Google Domain R$ 50,00/ano .com e afins
