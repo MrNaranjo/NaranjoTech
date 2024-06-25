@@ -13,8 +13,7 @@
 
     <meta property="og:site_name" content="Naranjo Tech">
     <meta property="og:title" content="Portal Naranjo Tech" />
-    <meta property="og:description"
-        content="Naranjo Tech - Lista de Posts" />
+    <meta property="og:description" content="Naranjo Tech - Lista de Posts" />
     <meta property="og:image" itemprop="image" content="http://www.naranjo.tec.br/img/NaranjoTechShare.jpg">
     <meta property="og:image:type" content="image/jpg">
     <meta property="og:image:width" content="300">
@@ -55,55 +54,68 @@
 
         <!-- NAV -->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="../index.html">
-                <img src="../img/NaranjoTechLogo.jpg" width="30" height="30" class="d-inline-block align-top" alt="Logo Naranjo Tech" />
-                Naranjo
-            </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="../index.html">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link disabled" href="#">Sobre</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Estudos
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="../content/estudos/001/instituicao_financeira.html">Instituição Financeira</a>
-                            <!-- <div class="dropdown-divider"></div>
+            
+                <a class="navbar-brand" href="../index.html">
+                    <img src="../img/NaranjoTechLogo.jpg" width="30" height="30" class="d-inline-block align-top"
+                        alt="Logo Naranjo Tech" />
+                    Naranjo
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="../index.html">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link disabled" href="#">Sobre</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Estudos
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item"
+                                    href="../content/estudos/001/instituicao_financeira.html">Instituição Financeira</a>
+                                <!-- <div class="dropdown-divider"></div>
                       <a class="dropdown-item" href="#">Something else here</a> -->
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link disabled" href="#">Notas</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="postsIndex.html">Posts <span class="sr-only">(current)</span></a>
-                    </li>
-                </ul>
-                <form class="form-inline my-2 my-lg-0">
-                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-                </form>
-            </div>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link disabled" href="#">Notas</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="postsIndex.html">Posts <span class="sr-only">(current)</span></a>
+                        </li>
+                    </ul>
+                    <form class="form-inline my-2 my-lg-0">
+                        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                    </form>
+                </div>
+            
         </nav>
 
         <!-- Header -->
-        <header>
-
+        <header class="container">
+            <h1 class="text-center">Posts</h1>
         </header>
 
         <!-- Content -->
-        <main>
-            <p style="text-align: center;">Posts</p>
+        <main class="container">
+            <div class="card" style="width: 18rem;">
+                <!-- <img class="card-img-top" src="..." alt="Card image cap"> -->
+                <div class="card-body">
+                    <h5 class="card-title">Testes, Observabilidade e Qualidade</h5>
+                    <p class="card-text">Uma reflexão pragmática sobre os fatores e operações de testes,
+                        observabilidadae e qualidade.</p>
+                    <a href="posts/TestesObservabilidadeQualidade.html" class="btn btn-primary">Ler</a>
+                </div>
+            </div>
         </main>
 
         <!-- Footer -->
