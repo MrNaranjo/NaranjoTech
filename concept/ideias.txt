@@ -1,5 +1,5 @@
 - Criar página introdutória dos comandos git
-- Criar página para prepara ambiente de dev
+- Criar página para preparar ambiente de dev
 - Criar página explicando cdns e suas vantagens
 - Criar página explicando domínos, servidores DNS e dns replication
 - Criar página explicando NGINX
@@ -8,7 +8,16 @@
 - Criar página explicando meta tags importantes
 - Criar página explicando minifyer
 - Criar página explicando as principais tags HTML5
+- Testes, observabilidade e qualidade
+==============================================================================
 
-
+- Subir estudos, notas e posts
 
 - Criar página para direcionar e informar dados de doações e níveis de sangue nos bancos de sangue
+
+
+==============================================================================
+
+Adicionar fade no loader
+Componentizar menu inteligente
+Implementar a pesquisa no menu
