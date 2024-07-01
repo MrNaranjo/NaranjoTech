@@ -8,7 +8,10 @@
 - Criar página explicando meta tags importantes
 - Criar página explicando minifyer
 - Criar página explicando as principais tags HTML5
+
+
 - Testes, observabilidade e qualidade
+- Complexidade ciclomática com o IOF
 ==============================================================================
 
 - Subir estudos, notas e posts
@@ -21,3 +24,5 @@
 Adicionar fade no loader
 Componentizar menu inteligente
 Implementar a pesquisa no menu
+Criar menu de navegação lateral para os títulos de um estudo/post
+Definir layout para os estudos e posts
